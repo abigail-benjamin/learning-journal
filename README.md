@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Abigail's Learning journal!
 
-You can use the [editor on GitHub](https://github.com/kellzkellz/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is *Abigail Benjamin*. I am a software engineer. 
+I am orginally from Grenada. I reside in Grand Cayman with my husband and our children. I am a teacher by day and full time mom. 
+I love to learn and see other learn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My favorite places are the beach and waterfalls and I love ice-cream.
 
-### Markdown
+### Learning Journal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The purpose of this site is to journal and practice all the things that I am learning as I move through Code Fellows curriculum.
+I want to keep track of my learning and see my progression. Also, to build a good cheat sheet for me as I learn more about sofware development.
+
+### Growth Mindset
+
+A growth mindset is believing you can do it! Being dedicated and hardworking towards the cause!
+*I believe, therefore I will -- regardless of.*
+
+Word I like by:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kellzkellz/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+God has given me everything I need to success, I just need to apply myself!
+ 2 Peter 1:3
