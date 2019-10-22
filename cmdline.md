@@ -1,6 +1,6 @@
 # Most common terminal commands
 
-cd - change directory
+*cd - change directory
 ls - list
 pwd - present working directory
 mv - move example: mv (source) (destination)
